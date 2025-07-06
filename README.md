@@ -36,4 +36,4 @@ This project is a part of my personal learning journey as a Frontend Developer. 
 
 * HTML5
 * CSS3 (Flexbox & Grid)
-* Fonts & Icons (if used)
+
