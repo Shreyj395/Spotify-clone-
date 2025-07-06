@@ -14,11 +14,23 @@ This is a **fully responsive clone of the Spotify Web UI**, designed using only 
 ✔️ Clean and organized code structure
 ✔️ No JavaScript used - only HTML & CSS
 
-### 🎯 Purpose:
-
-This project is part of my learning journey to master frontend development. It helped me understand how to build complex layouts, use Flexbox/Grid effectively, and improve CSS design skills.
+📢 About This Project:
+This project is a part of my personal learning journey as a Frontend Developer. Rebuilding real-world websites like Spotify helps me sharpen my skills and understand professional design patterns. This project focuses only on structure and styling — no functionality is implemented yet.
 
 ---
+
+💡 What I Learned:
+✔️ How to build complex layouts using Flexbox & Grid
+✔️ Styling modern, responsive web interfaces
+✔️ Working with fonts, icons, and hover animations
+✔️ Creating real-world UI clones with pure frontend technologies
+
+🎨 Project Highlights:
+✔️ Clean and modern UI inspired by Spotify
+✔️ Fully responsive for all screen sizes
+✔️ Smooth hover and active effects using only CSS
+✔️ Well-structured and readable code
+✔️ A perfect project for beginners to understand layout building
 
 ### 🛠️ Tech Stack:
 
